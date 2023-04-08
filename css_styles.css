@@ -1,0 +1,55 @@
+body {
+background-color: #16355f;
+
+
+}
+body:hover{
+    background-color: rgb(103, 90, 22);
+}
+
+hr {
+border-style: none;
+width: 10px;
+border-top-style: dotted;
+border-width: 5px;
+border-color: #A5D7E8;
+width: 5%;
+
+}
+
+h1 {
+display: block;
+font-size: 2em;
+margin-top: 0.67em;
+margin-bottom: 0.67em;
+margin-left: 0;
+margin-right: 0;
+font-weight: bold;
+color: aliceblue;
+}
+
+h3 {
+display: block font-size: 1.17em;
+margin-top: 1em;
+margin-bottom: 1em;
+margin-left: 0;
+margin-right: 0;
+font-weight: bold;
+color: aliceblue;
+}
+
+p {
+color: #A5D7E8
+}
+
+td {
+color: #A5D7E8;
+}
+
+li {
+color: aliceblue;
+}
+img{
+    border-radius: 100%;
+    background-color:#16355f ;
+}
